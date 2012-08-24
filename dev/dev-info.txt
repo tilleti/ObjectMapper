@@ -1,0 +1,6 @@
+==============
+ ObjectMapper
+==============
+	:master :dev
+
+08/23/2012	:1:	All the development code related to this project will be residing here.
